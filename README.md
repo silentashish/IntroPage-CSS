@@ -1,3 +1,3 @@
 # IntroPage-CSS
-Just a simple CSS intro profile
+# CSS INTRO Page FOR YOUR WEBSITE
 ![alt-text](https://github.com/silentashish/IntroPage-CSS/blob/master/AudioRaw.gif)
