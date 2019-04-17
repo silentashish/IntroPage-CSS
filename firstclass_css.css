@@ -1,0 +1,53 @@
+/*This is css for the firstclass which is bacially the simple page with some
+html in it for practise */
+body{
+  align-items: center;
+  background: black;
+  padding: 5 dp;
+}
+div{
+  color: white;
+  padding: 1%;
+}
+img{
+  height: 600px;
+  width: 600px;
+}
+#inbox1{
+  height: 600px;
+  width: 600px;
+  background: black;
+}
+#box1{
+  width: auto;
+  margin: auto;
+}
+.info{
+  text-align: center;
+  margin: auto;
+  font-family: cursive;
+  color: white;
+}
+
+*{
+  color: white;
+  text-align: center;
+}
+form{
+  font-size: 1.5em;
+}
+#signup{
+  background: maroon;
+  padding: 30px;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  border-radius: 5px 5px 5px 5px;
+}
+#email{
+  width: 400px;
+  height: 40px;
+}
+textarea{
+  width: 400px;
+  color: black;
+}
